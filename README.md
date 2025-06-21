@@ -1,6 +1,7 @@
-![Screenshot](media/preview.png)
-
 <div align="center">
+<p align="center">
+  <img src="media/preview.gif" alt="Screenshot">
+</p>
 
 # Blazing Fast MacOS Window Snap Manager
 
